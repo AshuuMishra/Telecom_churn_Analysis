@@ -1,6 +1,5 @@
-joblib 
 streamlit
-pickle
-pandas
 numpy
 scikit-learn
+joblib
+pandas  # If you're using DataFrames anywhere
